@@ -1,3 +1,19 @@
+.background-red {
+    background-color: #d35266;
+}
+
+.background-gray-1 {
+    background-color: #888888;
+}
+
+.background-gray-2 {
+    background-color: #383838;
+}
+
+.border-red {
+    border-color: #d35266;
+}
+
 .color-red {
     color: #d35266;
 }
@@ -10,3 +26,7 @@
     color: #383838;
 }
 
+
+.navbar-nav li {
+    margin: 0 15px;
+}
