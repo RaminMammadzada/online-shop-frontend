@@ -26,7 +26,20 @@
     color: #383838;
 }
 
+.px-8 {
+    padding: 0 180px;
+}
 
 .navbar-nav li {
     margin: 0 15px;
+}
+
+@media only screen and (min-width: 900px)  {
+    .searchbar-1 {
+        width: 300px;
+    }
+
+    .searchbar-2 {
+        width: 250px;
+    }
 }
