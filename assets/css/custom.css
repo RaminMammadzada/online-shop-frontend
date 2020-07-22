@@ -14,15 +14,15 @@
     border-color: #d35266;
 }
 
-.color-red {
+.text-red {
     color: #d35266;
 }
 
-.color-gray-1 {
+.text-gray-1 {
     color: #888888;
 }
 
-.color-gray-2 {
+.text-gray-2 {
     color: #383838;
 }
 
@@ -34,7 +34,7 @@
     margin: 0 15px;
 }
 
-@media only screen and (min-width: 900px)  {
+@media only screen and (min-width: 768px)  {
     .searchbar-1 {
         width: 300px;
     }
@@ -42,4 +42,9 @@
     .searchbar-2 {
         width: 250px;
     }
+}
+
+.position-bottom-right-corner {
+    bottom: 0;
+    right: 0;
 }
