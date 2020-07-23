@@ -10,6 +10,10 @@
     background-color: #383838;
 }
 
+.background-gray-0 {
+    background-color: #F7F7F7;
+}
+
 .border-red {
     border-color: #d35266;
 }
@@ -27,6 +31,10 @@
 }
 
 .px-8 {
+    padding: 0 180px;
+}
+
+.mx-8 {
     padding: 0 180px;
 }
 
@@ -48,10 +56,6 @@
         display: none;
 
     }
-
-    .background-dd {
-        background-color: #00cc99;
-    }
 }
 
 @media screen and (min-width: 768px)  {
@@ -63,12 +67,25 @@
         width: 250px;
     }
 
-    .background-dd {
-        background-color: #d50516;
+    .mx-7 {
+        padding: 0 150px;
     }
 }
 
 .position-bottom-right-corner {
     bottom: 0;
     right: 0;
+}
+
+.width-of-arrow {
+    width: 1%;
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    border: 1px;
+    border-top: 2px solid rgba(128, 128, 128, 0.71);
 }
