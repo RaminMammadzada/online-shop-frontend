@@ -94,3 +94,7 @@ hr {
     background-color: #272727;
     color: #d25266;
 }
+
+.hovered-button:hover{
+    color: #fff;
+}
