@@ -1,0 +1,20 @@
+/* Column container */
+.main-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.main-left-sidebar {
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+/* Main column */
+.main-right-products {
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+}
+

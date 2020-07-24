@@ -54,7 +54,6 @@
     .hide-on-mobile {
         height: 0;
         display: none;
-
     }
 }
 
@@ -108,4 +107,3 @@ hr {
 .hovered-button:hover{
     color: #fff;
 }
-
