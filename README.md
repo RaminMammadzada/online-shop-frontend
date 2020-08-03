@@ -10,15 +10,19 @@ This is a project for the HTML & CSS capstone project: Online shop for electroni
 The Project is based on an online shop for electronics. I personalized the content, instead of a shop of electronics I built a page for the store for footwears.
 I followed the best practices in HTML, CSS and in GitHub process flow.
 
-## Desktop Screenshot
+## Desktop Screenshots (tablet & desktop: size from 768px)
 
+#### Main page
 ![screenshot Home-page](assets/img/screenshot_main_page_for_lg_screen.jpeg)
 
+#### Search result page
 ![screenshot Search-result-page](assets/img/screenshot_result_page_for_lg_screen.jpeg)
 
-## Small screen Screenshot
+## Small screen Screenshots (mobile: size up to 768px)
 
+#### Main page
 ![screenshot Home-page](assets/img/screenshot_main_page_for_sm_screen.jpeg)
+#### Search result page
 ![screenshot Search-result-page](assets/img/screenshot_result_page_for_sm_screen.jpeg)
 
 ## Built With
