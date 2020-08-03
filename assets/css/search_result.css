@@ -1,14 +1,11 @@
-@media screen and (max-width: 767px) {
-}
-
 @media screen and (min-width: 768px) {
   /* Column container */
   .main-row {
     display: flex;
     flex-wrap: wrap;
   }
-  /* Create two unequal columns that sits next to each other */
-  /* Sidebar/left column */
+
+  /* Create two unequal columns that sits next to each other. Sidebar/left column */
   .main-left-sidebar {
     flex: 5%;
     background-color: #f1f1f1;
@@ -52,7 +49,7 @@
   border: 3px solid #fff;
   box-shadow: 0 0 2px 3px #e8f5e9;
   cursor: pointer;
-  margin: 8px 10px 0px 0px;
+  margin: 8px 10px 0 0;
   transition: 0.3s;
 }
 
@@ -64,9 +61,6 @@
 .radio.selected {
   box-shadow: 0 0 2px 3px #9e9e9e;
   transition: 0.3s;
-}
-
-.w-50-for-result-item {
 }
 
 .size-circle {

@@ -13,6 +13,6 @@
     "assets/bootstrap*/**",
     "assets/font-awesome*/**",
     "package-lock.json",
-    "assets/my-icons-collection/*"
+    "assets/my-icons-collection/**"
   ]
 }

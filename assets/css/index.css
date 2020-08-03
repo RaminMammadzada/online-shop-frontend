@@ -3,7 +3,7 @@
 }
 
 .background-gray-1 {
-  background-color: #888888;
+  background-color: #888;
 }
 
 .background-gray-2 {
@@ -23,7 +23,7 @@
 }
 
 .text-gray-1 {
-  color: #888888;
+  color: #888;
 }
 
 .text-gray-2 {
@@ -115,7 +115,6 @@ hr {
   right: 0;
   font-size: 50%;
   margin-top: 0;
-  padding-top: 0;
   border-radius: 15%;
   padding: 0 0.2rem;
 }
