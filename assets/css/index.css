@@ -118,3 +118,12 @@ hr {
   border-radius: 15%;
   padding: 0 0.2rem;
 }
+
+.font-helvetica-light {
+    font-family: HelveticaNeue-Light;
+}
+
+.font-helvetica-medium {
+    font-family: HelveticaNeue-Medium;
+}
+
