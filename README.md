@@ -44,9 +44,9 @@ I followed the best practices in HTML, CSS and in GitHub process flow.
 
 ## Live Demo
 
-[Live Demo Link Home page](https://rawcdn.githack.com/RaminMammadzada/online-shop-frontend/e7d9dab23db5e88138279d4a7e28ca17df3583fb/index.html)
+[Live Demo Link Home page](https://raminmammadzada.github.io/online-shop-frontend/)
 
-[Live Demo Link Search Result page](https://rawcdn.githack.com/RaminMammadzada/online-shop-frontend/e7d9dab23db5e88138279d4a7e28ca17df3583fb/search_result.html)
+[Live Demo Link Search Result page](https://raminmammadzada.github.io/online-shop-frontend/search_result.html)
 
 
 ### Prerequisites
