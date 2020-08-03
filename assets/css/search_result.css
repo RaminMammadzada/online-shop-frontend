@@ -10,17 +10,17 @@
   /* Create two unequal columns that sits next to each other */
   /* Sidebar/left column */
   .main-left-sidebar {
-    flex: 30%;
+    flex: 5%;
     background-color: #f1f1f1;
-    padding: 20px;
+    padding: 2px;
     max-width: 30%;
   }
 
   /* Main column */
   .main-right-products {
-    flex: 70%;
+    flex: 75%;
     background-color: white;
-    padding: 20px;
+    padding: 2px;
   }
 }
 
@@ -67,5 +67,5 @@
 }
 
 .w-50-for-result-item {
-    
+
 }
