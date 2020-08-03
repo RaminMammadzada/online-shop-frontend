@@ -120,10 +120,9 @@ hr {
 }
 
 .font-helvetica-light {
-    font-family: HelveticaNeue-Light;
+  font-family: HelveticaNeue-Light, serif;
 }
 
 .font-helvetica-medium {
-    font-family: HelveticaNeue-Medium;
+  font-family: HelveticaNeue-Medium, serif;
 }
-
