@@ -13,17 +13,17 @@ I followed the best practices in HTML, CSS and in GitHub process flow.
 ## Desktop Screenshots (tablet & desktop: size from 768px)
 
 #### Main page
-![screenshot Home-page](assets/img/screenshot_main_page_for_lg_screen.jpeg)
+![screenshot Home-page](assets/img/screenshot_main_page_for_lg_screen.png)
 
 #### Search result page
-![screenshot Search-result-page](assets/img/screenshot_result_page_for_lg_screen.jpeg)
+![screenshot Search-result-page](assets/img/screenshot_result_page_for_lg_screen.png)
 
 ## Small screen Screenshots (mobile: size up to 768px)
 
 #### Main page
-![screenshot Home-page](assets/img/screenshot_main_page_for_sm_screen.jpeg)
+![screenshot Home-page](assets/img/screenshot_main_page_for_sm_screen.png)
 #### Search result page
-![screenshot Search-result-page](assets/img/screenshot_result_page_for_sm_screen.jpeg)
+![screenshot Search-result-page](assets/img/screenshot_result_page_for_sm_screen.png)
 
 ## Built With
 
