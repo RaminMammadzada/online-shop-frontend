@@ -125,3 +125,7 @@ hr {
   align-items: center;
   justify-content: center;
 }
+
+.banner-text-size {
+    font-size: 1.3rem;
+}
