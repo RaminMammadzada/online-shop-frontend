@@ -1,7 +1,7 @@
 @media screen and (max-width: 767px) {
-    .img-responsive {
-        width: 100%;
-    }
+  .img-responsive {
+    width: 100%;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -26,9 +26,9 @@
     padding: 2px;
   }
 
-    .img-responsive {
-        width: 100%;
-    }
+  .img-responsive {
+    width: 100%;
+  }
 }
 
 /* Product Color */

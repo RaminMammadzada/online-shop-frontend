@@ -43,7 +43,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .hide-on-mobile {
+  .hide-on-mobile {
     height: 0;
     display: none;
   }
@@ -120,8 +120,8 @@ hr {
 }
 
 .search-button {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
