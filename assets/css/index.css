@@ -1,0 +1,131 @@
+.background-red {
+  background-color: #d35266;
+}
+
+.background-gray-1 {
+  background-color: #888;
+}
+
+.background-gray-2 {
+  background-color: #383838;
+}
+
+.background-gray-0 {
+  background-color: #f7f7f7;
+}
+
+.border-red {
+  border-color: #d35266;
+}
+
+.text-red {
+  color: #d35266;
+}
+
+.text-gray-1 {
+  color: #888;
+}
+
+.text-gray-2 {
+  color: #383838;
+}
+
+.px-8 {
+  padding: 0 180px;
+}
+
+.mx-8 {
+  margin: 0 180px;
+}
+
+.navbar-nav li {
+  margin: 0 15px;
+}
+
+@media screen and (max-width: 767px) {
+  .hide-on-mobile {
+    height: 0;
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .searchbar-1 {
+    width: 100%;
+  }
+
+  .searchbar-2 {
+    width: 70%;
+  }
+
+  .mx-7 {
+    padding: 0 150px;
+  }
+}
+
+.position-bottom-right-corner {
+  bottom: 0;
+  right: 0;
+}
+
+.width-of-arrow {
+  width: 1%;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  border: 1px;
+  border-top: 2px solid rgba(128, 128, 128, 0.71);
+}
+
+.hr-for-footer {
+  border: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  width: 60px;
+  display: inline-block;
+  height: 2px;
+}
+
+.fa-plus-square-o:hover {
+  background-color: #272727;
+  color: #d25266;
+}
+
+.hovered-button:hover {
+  color: #fff;
+}
+
+.superscript {
+  float: right;
+  max-width: 100%;
+  position: relative;
+  top: 0;
+  right: 0;
+  font-size: 50%;
+  margin-top: 0;
+  border-radius: 15%;
+  padding: 0 0.2rem;
+}
+
+.font-helvetica-light {
+  font-family: HelveticaNeue-Light, serif;
+}
+
+.font-helvetica-medium {
+  font-family: HelveticaNeue-Medium, serif;
+}
+
+.search-button {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-text-size {
+  font-size: 1.3rem;
+}

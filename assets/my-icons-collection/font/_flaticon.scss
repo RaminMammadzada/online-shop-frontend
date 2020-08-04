@@ -1,0 +1,64 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/07/2020 14:10
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-sneaker:before { content: "\f100"; }
+.flaticon-shoes:before { content: "\f101"; }
+.flaticon-footwear:before { content: "\f102"; }
+.flaticon-shoes-1:before { content: "\f103"; }
+.flaticon-shoe:before { content: "\f104"; }
+.flaticon-slipper:before { content: "\f105"; }
+.flaticon-shoes-2:before { content: "\f106"; }
+.flaticon-shoe-1:before { content: "\f107"; }
+.flaticon-trail-running:before { content: "\f108"; }
+.flaticon-shoe-2:before { content: "\f109"; }
+.flaticon-footwear-1:before { content: "\f10a"; }
+.flaticon-shoe-3:before { content: "\f10b"; }
+    
+    $font-Flaticon-sneaker: "\f100";
+    $font-Flaticon-shoes: "\f101";
+    $font-Flaticon-footwear: "\f102";
+    $font-Flaticon-shoes-1: "\f103";
+    $font-Flaticon-shoe: "\f104";
+    $font-Flaticon-slipper: "\f105";
+    $font-Flaticon-shoes-2: "\f106";
+    $font-Flaticon-shoe-1: "\f107";
+    $font-Flaticon-trail-running: "\f108";
+    $font-Flaticon-shoe-2: "\f109";
+    $font-Flaticon-footwear-1: "\f10a";
+    $font-Flaticon-shoe-3: "\f10b";
