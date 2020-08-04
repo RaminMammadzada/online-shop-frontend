@@ -14,7 +14,7 @@
   /* Create two unequal columns that sits next to each other. Sidebar/left column */
   .main-left-sidebar {
     flex: 15%;
-    background-color: #f1f1f1;
+    background-color: #f7f7f7;
     padding: 2px;
     max-width: 30%;
   }
@@ -22,7 +22,7 @@
   /* Main column */
   .main-right-products {
     flex: 75%;
-    background-color: white;
+    background-color: #f7f7f7;
     padding: 2px;
   }
 
@@ -76,4 +76,26 @@
 .size-circle {
   width: 200px;
   height: 60px;
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 3px 10px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+    border-radius: 10%;
+}
+
+.pagination a.active {
+    background-color: #d35266;
+    color: white;
+    border: 1px solid #d35266;
+    border-radius: 10%;
 }
