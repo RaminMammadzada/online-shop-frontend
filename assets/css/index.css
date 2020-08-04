@@ -118,3 +118,10 @@ hr {
 .font-helvetica-medium {
   font-family: HelveticaNeue-Medium, serif;
 }
+
+.search-button {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
