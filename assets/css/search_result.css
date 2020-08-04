@@ -13,7 +13,7 @@
 
   /* Create two unequal columns that sits next to each other. Sidebar/left column */
   .main-left-sidebar {
-    flex: 5%;
+    flex: 15%;
     background-color: #f1f1f1;
     padding: 2px;
     max-width: 30%;
