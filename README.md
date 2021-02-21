@@ -1,12 +1,12 @@
 # online-shop-frontend
 
-Microverse School > 8. HTML &amp; CSS3 > Capstone Project: Online shop frontend for footwears
+Microverse School > 8. HTML &amp; CSS3 > Capstone Project: Online shop frontend for footwear
 
 
 # HTML-CSS-capstone-project (Online shop for footwear)
 
 >
-This is a project for the HTML & CSS capstone project: Online shop for electronics (https://www.behance.net/gallery/24796463/ZATTIX).
+This is a project for the HTML & CSS capstone project: Online shop for footwear (https://www.behance.net/gallery/24796463/ZATTIX).
 The Project is based on an online shop for electronics. I personalized the content, instead of a shop of electronics I built a page for the store for footwears.
 I followed the best practices in HTML, CSS and in GitHub process flow.
 
