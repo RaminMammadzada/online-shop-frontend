@@ -10,6 +10,16 @@ This is a project for the HTML & CSS capstone project: Online shop for footwear 
 The Project is based on an online shop for electronics. I personalized the content, instead of a shop of electronics I built a page for the store for footwears.
 I followed the best practices in HTML, CSS and in GitHub process flow.
 
+## Live Demo
+
+[Live Demo Link Home page](https://raminmammadzada.github.io/online-shop-frontend/)
+
+[Live Demo Link Search Result page](https://raminmammadzada.github.io/online-shop-frontend/search_result.html)
+
+## Video Presentation
+- https://www.loom.com/share/e687d90298504768bf310ff415989f08
+
+
 ## Desktop Screenshots (tablet & desktop: size from 768px)
 
 #### Main page
@@ -41,13 +51,6 @@ I followed the best practices in HTML, CSS and in GitHub process flow.
 - Use industry-standard tools (flexbox) to place elements in the page.
 - Ability to create UIs adaptable to different screen sizes using mediaqueries.
 - Apply front-end best practices.
-
-## Live Demo
-
-[Live Demo Link Home page](https://raminmammadzada.github.io/online-shop-frontend/)
-
-[Live Demo Link Search Result page](https://raminmammadzada.github.io/online-shop-frontend/search_result.html)
-
 
 ### Prerequisites
 
